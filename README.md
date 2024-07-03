@@ -29,5 +29,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peranutboonyakit&show_icons=true&theme=dracula&title_color=ff0000&bg_color=363636&locale=en&layout=compact" alt="peranutboonyakit" /></p>
 
 <br />
-<img alt="GIF" width="350" h="350" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img alt="GIF" width="350" height="350" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
