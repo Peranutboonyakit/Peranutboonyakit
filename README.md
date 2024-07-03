@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peranutboonyakit&show_icons=true&title_color=ff0000&locale=en&layout=compact" alt="peranutboonyakit" /></p>
