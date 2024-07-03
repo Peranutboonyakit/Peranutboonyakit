@@ -29,5 +29,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peranutboonyakit&show_icons=true&theme=dracula&title_color=ff0000&bg_color=363636&locale=en&layout=compact" alt="peranutboonyakit" /></p>
 
 <br />
-<img align="right" alt="GIF" width="350" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img align="center" alt="GIF" width="100%" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
