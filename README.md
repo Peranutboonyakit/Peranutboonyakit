@@ -26,5 +26,5 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 <br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peranutboonyakit&show_icons=true&title_color=ff0000&locale=en&layout=compact" alt="peranutboonyakit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peranutboonyakit&show_icons=true&theme=dracula&title_color=ff0000&bg_color=363636&locale=en&layout=compact" alt="peranutboonyakit" /></p>
 
